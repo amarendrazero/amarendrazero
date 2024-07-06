@@ -3,6 +3,7 @@
 ###
 
 <h2 align="left">I'm Amarendra Kumar and a production ready Ops Guy 🙂, enthusiastic about AI/MLOps.</h2>
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmttOHB4aTNsMzRxN3FxN2ZmNDcwNGxhYjlsbDY4NjA1ZXlremNhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/az2ikfu1lC8ja62nb9/giphy.gif">
 
 ###
 
