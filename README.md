@@ -1,18 +1,12 @@
-###
-
-<div align="right">
-  <img src="https://profile-counter.glitch.me/amarendrazero/count.svg?"  />
-</div>
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<h2 align="left">I'm Amarendra Kumar and I'm a production ready Ops Guy enthusiastic about AI/MLOps.</p>
+<h2 align="left">I'm Amarendra Kumar and a production ready Ops Guy 🙂, enthusiastic about AI/MLOps.</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<h3 align="left">About me</h3>
 
 ###
 
