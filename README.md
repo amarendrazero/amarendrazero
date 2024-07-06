@@ -101,8 +101,8 @@
 </div>
 
 ###
-
-<div align="center">
+ 
+<div align="left">
   <a href="https://www.linkedin.com/in/akumarsahu/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -111,12 +111,7 @@
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <img align="right"
+   <img src="https://profile-counter.glitch.me/amarendrazero/count.svg?" width="300"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/amarendrazero/count.svg?"  />
-</div>
-
-###
