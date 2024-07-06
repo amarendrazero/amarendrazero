@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019.<br>📚 I'm currently learning MLops.<br>🎯 Goals: Infrastructure Boy.<br>🎲 Fun fact: I love Operations. Definetly not on humans , only productions. 😄</p>
+<p align="left">✨ A DevOps Guy.<br>😎 AI/ML Enthusiast🧑🏻‍💻 Open-source advocator.<br>📚 I'm currently learning MLops.<br>🎯 Goals: A man of Infrastructure.<br>🎲 Fun fact: I love Operations. Definetly not on humans , only productions. 😄</p>
 
 ###
 
