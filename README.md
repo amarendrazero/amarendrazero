@@ -97,7 +97,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=amarendrazero&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="141" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amarendrazero&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false&order=2" height="140" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=amarendrazero&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=amarendrazero&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <!--
+  <img src="https://github-profile-trophy.vercel.app?username=amarendrazero&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />--->
 </div>
 
 ###
